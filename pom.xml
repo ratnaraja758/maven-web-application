@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>icicibank Releases Nexus Repository</name>
-	      <url>http://51.20.76.172:8081/repository/icici-project/</url>
+	      <url>http://13.53.105.58:8081/repository/web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>icicibank Snapshot Nexus Repository </name>
-	      <url>http://51.20.76.172:8081/repository/iciciproject-01/</url>
+	      <url>http://13.53.105.58:8081/repository/web-app-snapsot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
